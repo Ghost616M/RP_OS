@@ -37,7 +37,6 @@ Diferente de emuladores tradicionais, o RP_OS roda nativamente no microcontrolad
 
 ## 📸 Capturas de Tela
 
-*(Dica: Suba suas fotos em uma pasta `assets/` ou `screenshots/` no repositório e substitua os links abaixo)*
 
 | Desktop e Multitarefa | Controle de GPIO e I2C |
 | :---: | :---: |
