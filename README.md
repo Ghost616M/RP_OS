@@ -58,6 +58,4 @@ Diferente de emuladores tradicionais, o RP_OS roda nativamente no microcontrolad
 
 ---
 
-## 🤝 Contribuições e Sugestões
-
-O projeto está em desenvolvimento ativo! Sinta-se à vontade para abrir **Issues** com sugestões de melhorias, relatar bugs ou enviar **Pull Requests**.
+## peço desculpas mais eu deixo o resto com vcs, eu não tenho a capacidade, nem acesso a ferramentas, e eu uso o celular pra programar, vcs já devem saber que isso torna as coisas mais limitadas, então eu me despeço e agradeço por vcs esperimentarem esse projeto, o código fonte eu deixei zipado porque foi mais rápido, se quiserem implementar ou usar para criar seus próprios projetos, tem meu total consentimento, esse sistema pertence a todos, até mais.
